@@ -43,7 +43,7 @@ This project is designed to demonstrate **real-world frontend development practi
 | **JavaScript (ES6+)** | Logic |
 | **React.js** | UI Framework |
 | **Axios / Fetch API** | API communication |
-| **Bootstrap / Custom CSS** | Responsive design |
+| **Tailwind CSS** | Responsive design |
 
 > 🔗 Backend Repository:  
 👉 https://github.com/ARASIF1-6/blog_post_app_backend
@@ -83,7 +83,7 @@ blog_post_app_frontend/
 Make sure you have installed:
 
 - **Node.js (v18+)**
-- **npm or yarn**
+- **npm**
 - Backend API running locally
 
 ---
